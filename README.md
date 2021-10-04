@@ -4,4 +4,6 @@ I live in Palo Alto, CA, with my wife [Sophie](https://github.com/sophieschau) a
 
 Working in DeFi & Blockchain. I specialise in software verification and validation. 
 
-Reach out to me at `std::format("{}@{}.{}", "eddyjlsh94", "gmail", "com");`.
+Passionate about [Effective Altruism](https://www.effectivealtruism.org/). Member of [Giving What We Can](https://www.givingwhatwecan.org/). 
+
+`std::format("{}@{}.{}", "eddyjlsh94", "gmail", "com");`.
